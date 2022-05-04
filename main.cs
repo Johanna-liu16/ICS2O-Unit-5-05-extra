@@ -30,7 +30,7 @@ class Program
         else if (sideA == sideB || sideB == sideC || sideA == sideC)
             Console.WriteLine("Triangle is an isosceles");
         else
-            Console.WriteLine("Triangle is a scalene.");            
+            Console.WriteLine("Triangle is a scalene.");
 
         Console.WriteLine("\nDone.");
     }
